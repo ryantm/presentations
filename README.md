@@ -1,6 +1,6 @@
 Presentations
 ========================================
-I, [Ryan Mulligan](http://www.ryantm.com) have talked at [LVRUG](http://meetup.lvrug.org/):
+I, [Ryan Mulligan](http://www.ryantm.com), have talked at [LVRUG](http://meetup.lvrug.org/):
 * [Solo Chef](https://github.com/ryantm/lvrug-chef)
 * [Datomic](https://docs.google.com/presentation/d/1m-O-VA_IvUlJdDtbl0HXhilycrfqlRpm8gTek5U_Kd0/edit)
 * [HTML 5 History Manipulation](https://docs.google.com/present/edit?id=0AVLS-rcL51MAZGRocHpzY2JfNHQzanY0MmQ0)
