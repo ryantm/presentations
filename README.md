@@ -1,5 +1,6 @@
 Presentations
 ========================================
+
 I, [Ryan Mulligan](http://www.ryantm.com), have talked at [LVRUG](http://meetup.lvrug.org/):
 * [Solo Chef](https://github.com/ryantm/lvrug-chef)
 * [Datomic](https://docs.google.com/presentation/d/1m-O-VA_IvUlJdDtbl0HXhilycrfqlRpm8gTek5U_Kd0/edit)
@@ -11,3 +12,6 @@ I, [Ryan Mulligan](http://www.ryantm.com), have talked at [LVRUG](http://meetup.
 
 I have also talked at [LVBots](http://lvbots.org/):
 * [Asynchronous Serial](https://docs.google.com/presentation/d/11k9_aieeviZhMJr3eq705HjO85tGOlBIbRBqXIrwySs/edit)
+
+I have also talked at [LVFPUG](http://www.meetup.com/las-vegas-functional-programming/):
+* [Parametricity](https://docs.google.com/presentation/d/15VJVRFBtiJbQE4Q54J_Mjsb--uLJrVCnuNqIHTcvSgM/edit?usp=sharing)
